@@ -3,12 +3,12 @@ A machine learning project that uses Histogram of Oriented Gradients (HOG) for f
 
 ## 📌 Table of Contents
 
-# 📖 About the Project
+### About the Project
 This project aims to classify plant leaf images into different disease categories using machine learning. It uses the HOG (Histogram of Oriented Gradients) method to extract features from grayscale images and then trains a Support Vector Machine (SVM) to classify them.
 
 The goal is to assist in early plant disease detection using simple, interpretable, and efficient machine learning techniques.
 
-# 🧰 Technologies Used
+### 🧰 Technologies Used
 Python 🐍
 
 NumPy
@@ -22,7 +22,7 @@ scikit-image (for HOG feature extraction)
 OpenCV (for image processing)
 
 
-# ⚙️ How It Works
+### ⚙️ How It Works
 Loads training images from the dataset.
 
 Converts images to grayscale.
@@ -35,7 +35,7 @@ Saves the trained model as a .pkl file.
 
 Loads the model to predict a test image and displays the result.
 
-# 🛠 Installation
+### 🛠 Installation
 Clone the repository:
 bash
 Copy
@@ -43,7 +43,7 @@ Edit
 git clone https://github.com/your-username/hog-svm-plant-classifier.git
 cd hog-svm-plant-classifier
 
-# Install the dependencies:
+### Install the dependencies:
 bash
 Copy
 Edit
