@@ -40,7 +40,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/hog-svm-plant-classifier.git
+git clone https://github.com/DimpiMittal/hog-svm-plant-classifier.git
 cd hog-svm-plant-classifier
 
 ### Install the dependencies:
